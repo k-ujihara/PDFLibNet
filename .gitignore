@@ -41,6 +41,10 @@ obj/
 [Tt]mp/
 [Tt]emp/
 Ankh.NoLoad
+Browse.VC.*
+Solution.VC.*
+.vs/
+UpgradeLog.htm
 
 #Tooling
 _ReSharper*/

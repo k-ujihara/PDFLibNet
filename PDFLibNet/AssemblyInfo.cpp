@@ -13,7 +13,7 @@ using namespace System::Reflection;
 
 [assembly: AssemblyCompany("HidraQuim SA de CV")];
 [assembly: AssemblyProduct("PDFViewer")];
-[assembly: AssemblyCopyright("Copyright (c) 2009")];
+[assembly: AssemblyCopyright("Copyright (c) 2009, 2019")];
 [assembly: AssemblyTrademark("xPDF")];
 [assembly: AssemblyCulture("")];
-[assembly: AssemblyVersion("1.0.6.6")];
+[assembly: AssemblyVersion("2.0.0.0")];

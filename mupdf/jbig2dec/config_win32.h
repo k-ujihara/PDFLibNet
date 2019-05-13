@@ -36,6 +36,10 @@
 #    define vsnprintf _vsnprintf
 #   endif
 #  endif
-#  define snprintf _snprintf
+#  if defined(_MSC_VER)
+#   if _MSC_VER < 1900
+#    define snprintf _snprintf
+#   endif
+#  endif
 
 #endif /* _MSC_VER */
